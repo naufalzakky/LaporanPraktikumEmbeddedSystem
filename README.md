@@ -14,13 +14,13 @@
 
 <ul>
   <li><a href="https://github.com/naufalzakky/JobSheet1">JobSheet1</a></li>
-  <li><a href="https://github.com/naufalzakky/JobSheet1">JobSheet1.1</a></li>
-  <li><a href="https://github.com/naufalzakky/JobSheet1">JobSheet2</a></li>
-  <li><a href="https://github.com/naufalzakky/JobSheet1">JobSheet3</a></li>
-  <li><a href="https://github.com/naufalzakky/JobSheet1">Nomor 1</a></li>
-  <li><a href="https://github.com/naufalzakky/JobSheet1">Nomor 2</a></li>
-  <li><a href="https://github.com/naufalzakky/JobSheet1">Nomor 3</a></li>
-  <li><a href="https://github.com/naufalzakky/JobSheet1">Nomor 4</a></li>
+  <li><a href="https://github.com/naufalzakky/JobSheet1.1">JobSheet1.1</a></li>
+  <li><a href="https://github.com/naufalzakky/JobSheet2">JobSheet2</a></li>
+  <li><a href="https://github.com/naufalzakky/JobSheet3">JobSheet3</a></li>
+  <li><a href="https://github.com/naufalzakky/Nomor1">Nomor 1</a></li>
+  <li><a href="https://github.com/naufalzakky/Nomor2">Nomor 2</a></li>
+  <li><a href="https://github.com/naufalzakky/Nomor3">Nomor 3</a></li>
+  <li><a href="https://github.com/naufalzakky/Nomor4">Nomor 4</a></li>
 </ul>
 
 </body>
