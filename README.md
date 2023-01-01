@@ -7,7 +7,6 @@
 
 <ul>
   <li>Naufal Faterna Zakky 4.31.20.0.17</li>
-  <li>Muhammad Khabiburrohman 4.31.20.0.15</li>
 </ul>
 
 <h3>Daftar Jobsheet</h3>
