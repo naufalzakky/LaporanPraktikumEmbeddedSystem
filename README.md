@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1 style="text-align:center;">Laporan Praktikum Sistem Embedded</h1>
+<h1 align="center">Laporan Praktikum Sistem Embedded</h1>
 <p>Disusun Oleh:</p>
 
 <ul>
@@ -10,7 +10,7 @@
   <li>Muhammad Khabiburrohman 4.31.20.0.15</li>
 </ul>
 
-<h3 style="text-align:center;">Daftar Jobsheet</h3>
+<h3>Daftar Jobsheet</h3>
 <p></p>
 
 <ul>
